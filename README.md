@@ -21,10 +21,6 @@ Here are some of the core technologies used in the project:
 | [`React Router`](https://reactrouter.com/) | Declarative routing for React |
 | [`React Leaflet`](https://react-leaflet.js.org/) | Interactive maps with React components and Leaflet |
 
-## Contributing
-
-Contributions are always welcome! Get started by forking the repository and submitting a pull request.
-
 ## Contribution Guidelines
 
 We welcome contributions from developers of all skill levels. Whether you're a seasoned developer or just starting out, there are many ways you can contribute to the project.
