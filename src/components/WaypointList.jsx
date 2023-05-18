@@ -66,8 +66,8 @@ export default function WaypointList({
             <>
               {waypoints.length > 1 && waypoints.length - 1 !== index && (
                 <div className="flex items-center my-2">
-                  <div className="border-b w-full border-white"></div>
-                  <span className="w-36 ml-5 font-medium text-neutral-600 text-right">
+                  <div className="border-b w-full border-neutral-200"></div>
+                  <span className="w-36 ml-5 font-medium text-neutral-500 text-right">
                     {distanceBetweenWaypoints[index]
                       ? `${parseFloat(
                           distanceBetweenWaypoints[index] / 1000
@@ -158,6 +158,7 @@ export default function WaypointList({
             >
               Remove Waypoint
             </button>
+
             <button
               className="bg-blue-400 text-white text-md font-medium rounded-full px-8 py-1 ml-2"
               onClick={(e) => {
