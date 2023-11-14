@@ -12,15 +12,6 @@ Rally is built using modern web technologies such as React, and is optimized for
 
 Whether you're planning a weekend getaway or a cross-country adventure, Rally is your ultimate road trip companion. Start your journey today!
 
-## Technologies 🚀
-
-Here are some of the core technologies used in the project:
-| Package | Purpose |
-| --- | --- |
-| [`React`](https://reactjs.org/) | JavaScript library for building user interfaces |
-| [`React Router`](https://reactrouter.com/) | Declarative routing for React |
-| [`React Leaflet`](https://react-leaflet.js.org/) | Interactive maps with React components and Leaflet |
-
 ## Contribution Guidelines
 
 We welcome contributions from developers of all skill levels. Whether you're a seasoned developer or just starting out, there are many ways you can contribute to the project.
