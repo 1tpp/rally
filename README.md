@@ -1,9 +1,5 @@
 # Rally - Road Trip Planner 🗺️
 
-![Screenshot 2566-05-05 at 00 31 12](https://user-images.githubusercontent.com/43726547/236283289-352decd9-a804-4a44-9bcb-3f7c5ef8d6fe.png)
-
-[LIVE DEMO](https://rally.1tpp.dev)
-
 Rally is a comprehensive web application that helps you plan your dream road trip with ease. With Rally, you can create custom itineraries, discover new routes, find interesting landmarks, and get directions to your destinations - all in one place.
 
 The application features a user-friendly interface that allows you to visualize your trip on an interactive map. You can add as many stops as you want, reorder them to optimize your route, and see estimated travel times and distances. Additionally, Rally provides recommendations for nearby attractions, accommodations, and restaurants based on your interests.
